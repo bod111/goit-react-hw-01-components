@@ -1,10 +1,10 @@
 import React from "react";
 // import PropTypes from 'prop-types'
-import Profile from "./profile/Profile";
-import Statistics from "./statistics/Statistics";
+import Profile from "./Profile/Profile";
+import Statistics from "./Statistics/Statistics";
 import data from "../data/";
-import FriendList from "./friendList/FriendList";
-import TransactionHistiry from "./transactionHistiry/TransactionHistiry";
+import FriendList from "./FriendList/FriendList";
+import TransactionHistiry from "./TransactionHistiry/TransactionHistiry";
 
 const App = () => {
   return (
